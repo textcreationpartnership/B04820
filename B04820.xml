@@ -1,0 +1,338 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The maidens delight: or, A dainty new dialogue A vaporing gallant came the maid to woo ... To the tune of, Behold the man with a glass in his hand. Or, The mountebank of York.</title>
+            <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04820</idno>
+            <idno type="STC">Wing P3372B</idno>
+            <idno type="STC">ESTC R182069</idno>
+            <idno type="EEBO-CITATION">47012596</idno>
+            <idno type="OCLC">ocm 47012596</idno>
+            <idno type="VID">174564</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04820)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174564)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2691:49)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The maidens delight: or, A dainty new dialogue A vaporing gallant came the maid to woo ... To the tune of, Behold the man with a glass in his hand. Or, The mountebank of York.</title>
+                  <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Fran. Grove ...</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1656]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: L. P.</note>
+                  <note>Attributed to Laurence Price by Wing (2nd ed.)</note>
+                  <note>Contains 3 illustrations.</note>
+                  <note>Date of publication taken from Wing (2nd ed.)</note>
+                  <note>Right half sheet contains: The second part, to the same tune</note>
+                  <note>Reproduction of original in: University of Glasgow. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-07</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:174564:1"/>
+            <!-- PDF PAGE 11 -->
+            <head>The Maidens Delight: OR, A dainty New Dialogue.</head>
+            <argument>
+               <lg>
+                  <l>
+                     <hi>A Vaporing Gallant came the Maid to woo</hi>
+                  </l>
+                  <l>
+                     <hi>But ſhe deni'd and ſaid ſhe would not do</hi>
+                  </l>
+                  <l>
+                     <hi>He profferred Ribbans, Gloves, and gay gold Rings</hi>
+                  </l>
+                  <l>
+                     <hi>But ſhe refuſed all manner of ſuch things.</hi>
+                  </l>
+                  <l>
+                     <hi>She ſaid the greateſt comfort of her life</hi>
+                  </l>
+                  <l>
+                     <hi>Was to be made ſome honeſt Trades-mans wife.</hi>
+                  </l>
+               </lg>
+            </argument>
+            <opener>To the Tune of, Behold the man with a glaſs in his hand. Or, The Mountebank of York.</opener>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <sp>
+               <speaker>Man.</speaker>
+               <lg>
+                  <l>
+                     <hi>I</hi> am a Iovial Batcheler,</l>
+                  <l>and free from care and ſtrife,</l>
+                  <l>I nothing in the world do want</l>
+                  <l>and yet I want a wife:</l>
+                  <l>Therefore ſweet <hi>Cupid</hi> guide me,</l>
+                  <l>and help me to a Love,</l>
+                  <l>That may both kind and loving be</l>
+                  <l>and honeſt to me prove.</l>
+               </lg>
+               <lg>
+                  <l>Tis known to all my neighbours I</l>
+                  <l>am one and twenty years old,</l>
+                  <l>And I have ſtore and plenty of</l>
+                  <l>white Silver and red Gold,</l>
+                  <l>I have both goods and Cattle,</l>
+                  <l>I have both houſe and Land,</l>
+                  <l>I have my horſe, my Hawk, my hound,</l>
+                  <l>and all things at command</l>
+               </lg>
+               <lg>
+                  <l>My hat is made of <hi>Beaver</hi> brave,</l>
+                  <l>my hand of <hi>Flaunders</hi> Lace,</l>
+                  <l>My golden Belt about my neck,</l>
+                  <l>my perſon for to grace:</l>
+                  <l>My ſilver haunched Rapier</l>
+                  <l>both make a gallant ſhow,</l>
+                  <l>And I am well accounted of</l>
+                  <l>by all that do me know,</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>I</hi> have my knots of Ribbans brave</l>
+                  <l>along my Cod-peice tide</l>
+                  <l>
+                     <hi>I</hi> have my goulden fancies</l>
+                  <l>meet round at every ſide</l>
+                  <l>So high as is my pocket holes,</l>
+                  <l>deny it he that can</l>
+                  <l>Let all that ſees me judge if I</l>
+                  <l>am not a proper man</l>
+               </lg>
+               <lg>
+                  <l>And now ſweet <hi>Betty I</hi> am come</l>
+                  <l>a wooing unto thee,</l>
+                  <l>I prethee tell me out of hand</l>
+                  <l>if thou canſt fancy me,</l>
+                  <l>If thou canſt truly love me</l>
+                  <l>ile take thee to my wife,</l>
+                  <l>And thou ſhalt ſurely always live,</l>
+                  <l>
+                     <hi>A</hi> ſweet contented life.</l>
+               </lg>
+               <lg>
+                  <l>Ile furniſh thee with rare delights,</l>
+                  <l>as Ribbans and gold rings</l>
+                  <l>Perfumed, Gloves and Bracelets</l>
+                  <l>and ſuch like coſtly things</l>
+                  <l>With a <hi>Bever</hi> hat and a taffety ſcarf fine</l>
+                  <l>and a new-faſhion ſilken gown</l>
+                  <l>So thou ſhalt be as brave a Girl.</l>
+                  <l>as any in the town</l>
+               </lg>
+            </sp>
+            <div n="2" type="part">
+               <head>The ſecond part,</head>
+               <opener>to the ſame Tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <sp>
+                  <speaker>Maid.</speaker>
+                  <lg>
+                     <l>GOod Sir I thank you kindly for</l>
+                     <l>your proffered courteſy</l>
+                     <l>But this I tell you plainly here</l>
+                     <l>in truth and verity</l>
+                     <l>That <hi>I</hi> ſhall never love you</l>
+                     <l>whilſt <hi>I</hi> on earth remain</l>
+                     <l>Therefore forbear and ſay no more</l>
+                     <l>ſpend not your breath in vain.</l>
+                  </lg>
+                  <lg>
+                     <l>Tis not your cunning ſpeeches that</l>
+                     <l>ſhall tempt me unto ſin</l>
+                     <l>For all your wealth and riches ſir,</l>
+                     <l>I value not a pin</l>
+                     <l>I will not wed a Prodigal</l>
+                     <l>though he be never ſo brave</l>
+                     <l>But if ever <hi>I</hi> marry whilſt <hi>I</hi> live,</l>
+                     <l>ſome Trades-man <hi>I</hi> will have.</l>
+                  </lg>
+                  <lg>
+                     <l>A Prodigal wil domineer,</l>
+                     <l>and ſoon conſume his ſtore,</l>
+                     <l>Which being gone he knows not how</l>
+                     <l>nor which way to get more</l>
+                     <l>But the brave reſolved trades-man</l>
+                     <l>is free from ſuch like ſorrow</l>
+                     <l>If he wants mony over night,</l>
+                     <l>hee'l work for more next morrow</l>
+                  </lg>
+                  <lg>
+                     <l>A ſpend-thrift that conſumeth</l>
+                     <l>and ſells his land for gold</l>
+                     <l>Is very like to live in want</l>
+                     <l>or beg when he is old</l>
+                     <l>But the Noble-minded tradesman,</l>
+                     <l>his work goes for ward ſtill</l>
+                     <l>For he hath meat and drink enuf,</l>
+                     <l>and al things elſe at wil.</l>
+                  </lg>
+                  <lg>
+                     <l>So now you honeſt Batchelers</l>
+                     <l>you partly know my mind</l>
+                     <l>If <hi>I</hi> can with a Trades-man meet,</l>
+                     <l>that wil to me prove kind</l>
+                     <l>If that he takes me to his wife,</l>
+                     <l>
+                        <hi>I</hi> wil him dearly love,</l>
+                     <l>And ile be as faithful unto him</l>
+                     <l>as is the Turtle Dove.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>I</hi> do confeſs gay Ribands</l>
+                     <l>becomes the britches fine,</l>
+                     <l>And that the golden fancies</l>
+                     <l>wil make the Cod-peice ſhine</l>
+                     <l>But before <hi>I</hi> wil be married</l>
+                     <l>to ſuch a Prodigal</l>
+                     <l>Ile live a Maid and dye a Maid,</l>
+                     <l>and thats a word for all.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Man.</speaker>
+                  <lg>
+                     <l>Farewel you ſcornful minion</l>
+                     <l>
+                        <hi>I</hi> bid thee now adue</l>
+                     <l>
+                        <hi>I</hi> never do intend to come,</l>
+                     <l>again to trouble you,</l>
+                     <l>Ile reſt my ſelf contented</l>
+                     <l>until that <hi>I</hi> can finde</l>
+                     <l>A wife that is more fitting and</l>
+                     <l>agreeable to my mind.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Maid.</speaker>
+                  <lg>
+                     <l>Why then farewel proud Coxcom<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </l>
+                     <l>and this <hi>I</hi> tel thee plain</l>
+                     <l>Thy pride and thy ambition,</l>
+                     <l>
+                        <hi>I</hi> hold in much diſdain,</l>
+                     <l>Rather then ſuch a jack as thou,</l>
+                     <l>ſhouldſt be my company keeper,</l>
+                     <l>Ile marry with a Beggar-man</l>
+                     <l>or with a Chimney-Sweeper.</l>
+                  </lg>
+               </sp>
+               <trailer>Finis.</trailer>
+               <closer>
+                  <signed>L. P.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London Printed for Fran. Grove on Snow-hill.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
